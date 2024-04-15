@@ -1,0 +1,66 @@
+[
+  {
+    "description": "Продержись как можно дольше, отбиваясь от врагов, которых будет становиться всё больше.",
+    "id": 5,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/gunner/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/gunner/game/index.html",
+    "rating": 0,
+    "title": "G.U.N.N.E.R."
+  },
+  {
+    "description": "Защищай магический кристалл от монстров и уничтожай кладбища, чтобы спасти Землю, которую поглотил мрак.\n",
+    "id": 3,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/defence-of-crystal/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/defence-of-crystal/game/index.html",
+    "rating": 17,
+    "title": "Defence of Crystal"
+  },
+  {
+    "description": "Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космо-слизней.",
+    "id": 1,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/game/index.html",
+    "rating": 17,
+    "title": "Crystal Keeper"
+  },
+  {
+    "description": "Управляй автомобилем, избегая аварий и перепрыгивая препятствия на пути к следующему уровню.\n",
+    "id": 4,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/go-away/cover.jpg",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/go-away/game/index.html",
+    "rating": 0,
+    "title": "Go Away"
+  },
+  {
+    "description": "Прыгай по платформам и собирай ключи, чтобы выбраться из проклятого замка.\n",
+    "id": 9,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/Deep-Under-The-Castle/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/Deep-Under-The-Castle/index.html",
+    "rating": 0,
+    "title": "Deep Under The Castle"
+  },
+  {
+    "description": "Лети как можно дальше в космическом пространстве, уничтожая всё на своём пути.",
+    "id": 6,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/space-terror/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/space-terror/game/index.html",
+    "rating": 15,
+    "title": "Space Terror"
+  },
+  {
+    "description": "Безымянный герой исследует пещеры и подземелья, чтобы найти больше информации о себе.",
+    "id": 2,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/game/index.html",
+    "rating": 22,
+    "title": "Dangeons'n'Caves. Prologue"
+  },
+  {
+    "description": "Уворачивайся и отстреливайся от озлобленных квадратов и собирай жизни для перехода на следующий уровень.",
+    "id": 7,
+    "image": "https://code.s3.yandex.net/teens/pindie-games/square-slayer/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/square-slayer/game/index.html",
+    "rating": 0,
+    "title": "Square Slayer"
+  }
+]
